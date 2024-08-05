@@ -1,0 +1,150 @@
+...printing column name and column number...
+
+Name                      FieldNumber
+﻿N-NUMBER  1   
+SERIAL NUMBER         2   
+MFR MDL CODE          3   
+ENG MFR MDL           4   
+YEAR MFR              5   
+TYPE REGISTRANT       6   
+NAME                  7   
+STREET                8   
+STREET2               9   
+CITY                  10  
+STATE                 11  
+ZIP CODE              12  
+REGION                13  
+COUNTY                14  
+COUNTRY               15  
+LAST ACTION DATE      16  
+CERT ISSUE DATE       17  
+CERTIFICATION         18  
+TYPE AIRCRAFT         19  
+TYPE ENGINE           20  
+STATUS CODE           21  
+MODE S CODE           22  
+FRACT OWNER           23  
+AIR WORTH DATE        24  
+OTHER NAMES(1)        25  
+OTHER NAMES(2)        26  
+OTHER NAMES(3)        27  
+OTHER NAMES(4)        28  
+OTHER NAMES(5)        29  
+EXPIRATION DATE       30  
+UNIQUE ID             31  
+KIT MFR               32  
+ KIT MODEL            33  
+MODE S CODE HEX       34  
+                      35  
+﻿CODE      36  
+MFR                   37  
+MODEL                 38  
+TYPE-ACFT             39  
+TYPE-ENG              40  
+AC-CAT                41  
+BUILD-CERT-IND        42  
+NO-ENG                43  
+NO-SEATS              44  
+AC-WEIGHT             45  
+SPEED                 46  
+TC-DATA-SHEET         47  
+TC-DATA-HOLDER        48  
+                      49  
+﻿CODE      50  
+MFR                   51  
+MODEL                 52  
+TYPE                  53  
+HORSEPOWER            54  
+THRUST                55  
+                      56  
+
+...Counting United Aircrafts...
+
+Aircraft		Engine	cnt
+EMB-145XR           AE3007 SER     89
+A320-232            V2500SERIES    84
+737-824             CFM56 SERIES   75
+737-924ER           CFM56-7B27E    75
+ERJ 170-200 LL      CF34-8E5       60
+737-9               LEAP-1B28 SER  55
+A319-131            V2500SERIES    51
+777-222             PW4000 SER     47
+ERJ 170-200 LR      CF34-8E5       38
+757-224             RB-211 SERIES  36
+737-724             CFM56 SERIES   33
+767-322             PW4000 SER     30
+737-8               LEAP-1B28 SER  28
+787-9               GENX-1B74/75/  25
+777-224             GE90-90B       21
+777-300ER           GE90-115B      21
+737-924ER           CFM56-7B26E    20
+737-924ER           CFM56-7B26/3   19
+737-824             CFM56-7B26/3   18
+787-10              GENX-1B76/P2   18
+CL-600-2C11         CF34-8C5B1     18
+767-424ER           CF6-80 SERIES  16
+737-824             CFM56-7B26     13
+737-924             CFM56 SERIES   10
+737-924ER           CFM56-7B26     10
+757-33N             RB-211 SERIES  9
+737-900ER           CFM56-7B27E/F  6
+757-324             RB-211 SERIES  6
+787-8               GENX SERIES    6
+CL-600-2C10         CF34-8C5B1     6
+737-9               LEAP-1B28B     5
+747-422             PW4000 SER     5
+EMB-145XR           AE 3007A1E     5
+737-800             CFM56-7B26E    4
+737-824             CFM56-7B27E/F  4
+787-8               GENX-1B70/P2   4
+787-9               GENX SERIES    4
+CL-600-2C11         CF34 SERIES    4
+757-222             PW2040         3
+767-322             PW4060         3
+767-3CB             PW4060         3
+787-9               GENX-1B76A/P2  3
+CL-600-2C10         CF34 SERIES    3
+737-8               LEAP-1B27 SER  2
+737-800             CFM56-7B27E/F  2
+737-924ER           CFM56-7B26/2   2
+737-924ER           CFM56-7B27/B3  2
+757-324             RB211535E4B37  2
+757-33N             RB-211-22      2
+777-222             UNKNOWN ENG    2
+787-9               GENX-1B75/P2   2
+A320-232            V2527-A5       2
+A321-271NX          PW1133G-JM     2
+EMB-145XR           AE 3007A1P     2
+737-700             CFM56-7B22     1
+737-71Q             CFM56-7B22     1
+737-71Q             CFM56-7B24     1
+737-724             UNKNOWN ENG    1
+737-7V3             CFM56-7B22     1
+737-8               LEAP-1B28B     1
+737-824             CFM56-7B26E    1
+737-824             CFM56-7B27/B3  1
+737-824             CFM56-7B27E    1
+737-924ER           CFM56-5C4/1    1
+737-924ER           CFM56-7B27E/F  1
+747-422             PW2040         1
+747-422             PW4056         1
+757-224             RB-211-22      1
+757-224             RB211535E4B37  1
+757-224             TAY MK 610-8   1
+757-324             RB-211-22      1
+757-33N             DART RDA-10    1
+767-322             PW4052         1
+767-322             UNKNOWN ENG    1
+777-222             PT6A-66 SER    1
+777-222             PW4090         1
+777-224             TG190B         1
+787-10              GENX-1B67/P2   1
+787-10              GENX-1B75/P2   1
+787-8               GENX-1B70      1
+787-8               GENX-1B70/P1   1
+A319-131            V2522-A5       1
+A319-132            V2500SERIES    1
+A320-232            AL-25SERIES    1
+EMB-145XR           AE 3007A1/3    1
+EMB-145XR           AE 3007C       1
+EMB-145XR           AE3007C SER    1
